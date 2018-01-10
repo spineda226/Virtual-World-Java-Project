@@ -1,0 +1,27 @@
+Name: Steven Pineda
+Section: CPE 203-05
+Instructor: Hatalsky
+
+World Event Description
+
+How to trigger the event:
+- To trigger my world event, click on any square that is within bounds of the World Model.
+
+What should happen when the event is triggered:
+- For my world event, a garden of flowers grows whenever a mouse clicks on a space within the World Model. Blue flowers
+  will appear for all cardinal and diagonal neighbors of the clicked square that are within bounds. Since flowers attract bees,
+  a bee will also spawn in the middle of all the flowers if the space is non-occupied. If one clicks on an occupied space, 
+  the garden will grow, but a bee will not appear.
+
+What the affected entities should do:
+- The world event has no effect on miners, but changes the appearance and behavior of ore blobs. If an ore blob becomes a cardinal 
+  neighbor of a flower background, it is transformed into a butterfly. Butterflies are new animated entities. They 
+  seek graves (caused by bees killing entities). When reaching a grave, the butterfly will use its energy to change the grave into a 
+  vein. The butterfly will then die and disappear completely.
+
+What the new entity is and how it should behave:
+- One of the new entities is a Bee that is spawned by triggering the world event on a non-occupied square. A Bee is animated and will
+  seek the nearest entity that is either a minerNotFull, minerFull, blacksmith, oreBlob, or butterfly. If the bee catches up to one of those entities,
+  the entity will die and the square will show a grave for the dead entity (which butterflies seek to turn into veins). The bee will also die 
+  and disappear after stinging an entity. 
+- The other new entity is a Butterfly (which is described in the bullet point above).  

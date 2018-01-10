@@ -1,0 +1,65 @@
+blacksmith images/blacksmith.bmp
+bee images/bee1.bmp 255 255 255 0
+bee images/bee2.bmp 255 255 255 0
+bee images/bee3.bmp 255 255 255 0
+bee images/bee4.bmp 255 255 255 0
+bee images/bee5.bmp 255 255 255 0
+bee images/bee6.bmp 255 255 255 0
+bee images/bee7.bmp 255 255 255 0
+bee images/bee8.bmp 255 255 255 0
+bee images/bee9.bmp 255 255 255 0
+bee images/bee10.bmp 255 255 255 0
+bee images/bee11.bmp 255 255 255 0
+bee images/bee12.bmp 255 255 255 0
+bee images/bee13.bmp 255 255 255 0
+bee images/bee14.bmp 255 255 255 0
+bee images/bee15.bmp 255 255 255 0
+butterfly images/butterfly1.bmp 255 255 255 0
+butterfly images/butterfly2.bmp 255 255 255 0
+butterfly images/butterfly3.bmp 255 255 255 0
+butterfly images/butterfly4.bmp 255 255 255 0
+butterfly images/butterfly5.bmp 255 255 255 0
+butterfly images/butterfly6.bmp 255 255 255 0
+butterfly images/butterfly7.bmp 255 255 255 0
+butterfly images/butterfly8.bmp 255 255 255 0
+butterfly images/butterfly9.bmp 255 255 255 0
+butterfly images/butterfly10.bmp 255 255 255 0
+butterfly images/butterfly11.bmp 255 255 255 0
+butterfly images/butterfly12.bmp 255 255 255 0
+butterfly images/butterfly13.bmp 255 255 255 0
+butterfly images/butterfly14.bmp 255 255 255 0
+butterfly images/butterfly15.bmp 255 255 255 0
+butterfly images/butterfly16.bmp 255 255 255 0
+butterfly images/butterfly17.bmp 255 255 255 0
+butterfly images/butterfly18.bmp 255 255 255 0
+blob images/blob1.bmp 255 255 255 0
+blob images/blob2.bmp 255 255 255 0
+blob images/blob3.bmp 255 255 255 0
+blob images/blob4.bmp 255 255 255 0
+blob images/blob5.bmp 255 255 255 0
+blob images/blob6.bmp 255 255 255 0
+blob images/blob7.bmp 255 255 255 0
+blob images/blob8.bmp 255 255 255 0
+blob images/blob9.bmp 255 255 255 0
+blob images/blob10.bmp 255 255 255 0
+blob images/blob11.bmp 255 255 255 0
+blob images/blob12.bmp 255 255 255 0
+flower images/flower.bmp
+grass images/grass.bmp
+grave images/grave.bmp
+miner images/miner1.bmp 252 252 252 0
+miner images/miner2.bmp 252 252 252 0
+miner images/miner3.bmp 252 252 252 0
+miner images/miner4.bmp 252 252 252 0
+miner images/miner5.bmp 252 252 252 0
+obstacle images/obstacle.bmp
+ore images/ore.bmp 201 26 26 0
+quake images/quake1.bmp 255 255 255 0
+quake images/quake2.bmp 255 255 255 0
+quake images/quake3.bmp 255 255 255 0
+quake images/quake4.bmp 255 255 255 0
+quake images/quake5.bmp 255 255 255 0
+quake images/quake6.bmp 255 255 255 0
+rocks images/rock.bmp
+vein images/vein.bmp
+background_default images/none.bmp
